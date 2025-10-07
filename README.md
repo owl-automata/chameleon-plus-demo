@@ -5,7 +5,7 @@ This repository contains all necessary files for demonstrating the Chameleon Plu
 
 ## Current Version
 
-**Latest Release:** `1.0.6.cc.asu`
+**Latest Release:** `hcp.0.plus1.0.6`
 
 ---
 
